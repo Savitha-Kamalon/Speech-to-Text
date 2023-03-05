@@ -1,0 +1,91 @@
+{
+  "build": "h9ed2024_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/savithakamalon/opt/anaconda3/pkgs/libtasn1-4.16.0-h9ed2024_0",
+  "features": "",
+  "files": [
+    "bin/asn1Coding",
+    "bin/asn1Decoding",
+    "bin/asn1Parser",
+    "include/libtasn1.h",
+    "lib/libtasn1.6.dylib",
+    "lib/libtasn1.dylib",
+    "lib/pkgconfig/libtasn1.pc"
+  ],
+  "fn": "libtasn1-4.16.0-h9ed2024_0.conda",
+  "legacy_bz2_md5": "e1718dd38c717fd375587b905fe041e4",
+  "license": "GPL-3.0",
+  "link": {
+    "source": "/Users/savithakamalon/opt/anaconda3/pkgs/libtasn1-4.16.0-h9ed2024_0",
+    "type": 1
+  },
+  "md5": "363433a24c270e5efe876e902da20389",
+  "name": "libtasn1",
+  "package_tarball_full_path": "/Users/savithakamalon/opt/anaconda3/pkgs/libtasn1-4.16.0-h9ed2024_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/asn1Coding",
+        "path_type": "hardlink",
+        "sha256": "5f60c8e3329231e1bf3c02501f1b402ed07395d991825cdfcd1c06050d849e6a",
+        "sha256_in_prefix": "5f60c8e3329231e1bf3c02501f1b402ed07395d991825cdfcd1c06050d849e6a",
+        "size_in_bytes": 14120
+      },
+      {
+        "_path": "bin/asn1Decoding",
+        "path_type": "hardlink",
+        "sha256": "e036dbca26b65ebe23b83579405fe449b1c8538ae5ba3c2fef0afeca5bd30565",
+        "sha256_in_prefix": "e036dbca26b65ebe23b83579405fe449b1c8538ae5ba3c2fef0afeca5bd30565",
+        "size_in_bytes": 18572
+      },
+      {
+        "_path": "bin/asn1Parser",
+        "path_type": "hardlink",
+        "sha256": "916785f35575de6e2864436535b0d586f221a650e7ca56e6856e711eabee54d5",
+        "sha256_in_prefix": "916785f35575de6e2864436535b0d586f221a650e7ca56e6856e711eabee54d5",
+        "size_in_bytes": 13656
+      },
+      {
+        "_path": "include/libtasn1.h",
+        "path_type": "hardlink",
+        "sha256": "c0a8014a9ad943a176e0021b6203e578c3335947b56ed91299b0f34ea2942a7b",
+        "sha256_in_prefix": "c0a8014a9ad943a176e0021b6203e578c3335947b56ed91299b0f34ea2942a7b",
+        "size_in_bytes": 15408
+      },
+      {
+        "_path": "lib/libtasn1.6.dylib",
+        "path_type": "hardlink",
+        "sha256": "8dfdf4829583f689d7498d68e7068e33cdab2be2fda34303d756224a8da7a5eb",
+        "sha256_in_prefix": "8dfdf4829583f689d7498d68e7068e33cdab2be2fda34303d756224a8da7a5eb",
+        "size_in_bytes": 76412
+      },
+      {
+        "_path": "lib/libtasn1.dylib",
+        "path_type": "softlink",
+        "sha256": "8dfdf4829583f689d7498d68e7068e33cdab2be2fda34303d756224a8da7a5eb",
+        "size_in_bytes": 76412
+      },
+      {
+        "_path": "lib/pkgconfig/libtasn1.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/fec35d0c-e856-4dde-49e2-107a09d94c72/volume/libtasn1_1617770537777/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "0fe7b611bcc5fa31cd9c3ab4afe8fc206f76dcc11444e89d6e6348fd5fc93fa8",
+        "sha256_in_prefix": "192d2a8909512ce2c70267f479ce462a583eb8ca155514fc1555ceb7e09af566",
+        "size_in_bytes": 1349
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "686b4be0e9081537d475d900218bc1f84d5b2e09e39b0389d4b7c98229652665",
+  "size": 54284,
+  "subdir": "osx-64",
+  "timestamp": 1617770667845,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libtasn1-4.16.0-h9ed2024_0.conda",
+  "version": "4.16.0"
+}
